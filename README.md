@@ -19,4 +19,4 @@ Professional web application using Docker and Nginx, deployed on Ubuntu EC2.
 ## Deployment
 1. Build Docker image:
    ```bash
-   docker build -t my-professional-web .
+   docker build -t my-docker-web .
